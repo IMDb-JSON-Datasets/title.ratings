@@ -1,5 +1,5 @@
-# :tv: 1,250,670 movies
-### :date: 2022-06-30 07:01:56
+# :tv: 1,251,025 movies
+### :date: 2022-07-01 07:03:32
 #### Netlify
 - <a href='https://title-ratings.netlify.app/index.html' target='_blank'>https://title-ratings.netlify.app/index.html</a>
 - <a href='https://title-ratings.netlify.app/index.json' target='_blank'>https://title-ratings.netlify.app/index.json</a>
